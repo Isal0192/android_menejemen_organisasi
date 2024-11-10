@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">manajemen perojek organisasi</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="lupa_password">lupa password</string>
+    <string name="masuk">MASUK</string>
+</resources>
