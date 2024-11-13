@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                     && (password.getText().toString().equals("faisal"))) {
 
                 label.setText("login berhasil");
-                Intent home = new Intent(getApplicationContext(), home.class);
+                Intent home = new Intent(getApplicationContext(), MainHome.class);
                 startActivity(home);
 
             } else {
