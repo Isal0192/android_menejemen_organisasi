@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "manajemen perojek organisasi"
 include ':app'
-include ':home'
